@@ -16,7 +16,7 @@
         {"season": "{season}", "episode": "{episode}"}
     ],
     "fallback": {
-        "play_movie": "S4Me_ricerca.json play_movie",
+        "play_movie": "S4Me_player_me_sc.json",
         "play_episode": "S4Me_ricerca.json play_episode"
     }
 }
